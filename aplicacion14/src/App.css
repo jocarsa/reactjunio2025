@@ -1,0 +1,12 @@
+.contenedor{
+	width:800px;
+	margin:auto;
+}
+article{
+	padding:20px 0px;
+	border-bottom:1px solid lightgrey;
+}
+h1{
+	text-align:center;
+}
+
